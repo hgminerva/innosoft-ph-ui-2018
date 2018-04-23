@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.landing.css']
 })
 export class HomeLandingComponent {
-  title = 'Innosoft';
+  title = 'Innosoft Solutions';
 }
