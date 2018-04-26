@@ -4,6 +4,7 @@ import { Component } from '@angular/core';
   selector: 'home-landing',
   templateUrl: './home.landing.html',
   styleUrls: ['./home.landing.css']
+  
 })
 export class HomeLandingComponent {
   title = 'Innosoft Solutions';
